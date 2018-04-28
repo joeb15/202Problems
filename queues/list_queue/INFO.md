@@ -1,6 +1,10 @@
 # Circular List Queues
 
 The idea behind a circular list queue is that you will have a list of a given size and that will be the size of your queue  
+
+Here's a graphic to demonstrate this:
+![][enqueue-dequeue]
+
 For example, a queue of size 4 would look like this:
 
 | 0 | 1 | 2 | 3 | 
@@ -39,4 +43,4 @@ front=1
 end=1  
 returned 5
 
-
+[enqueue-dequeue]: https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Fundamentals_of_data_structures/Queues#/media/File:Data_Queue.svg
