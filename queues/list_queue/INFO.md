@@ -43,4 +43,4 @@ front=1
 end=1  
 returned 5
 
-[enqueue-dequeue]: https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_1/Fundamentals_of_data_structures/Queues#/media/File:Data_Queue.svg
+[enqueue-dequeue]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/405px-Data_Queue.svg.png
