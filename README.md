@@ -11,6 +11,9 @@ If you need any more information, or would like a different kind of practice pro
 >Phone: (412) 552-8126  
 >Email: jvbanko@calpoly.edu
 
+Also, feel free to join the class GroupMe:  
+bit.ly/calpolycpe202
+
 ## Notes about this repo:
 1. Each main folder is a topic
 2. Each sub folder is a way of approaching the topic (sub-topic)
