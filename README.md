@@ -1,4 +1,8 @@
 # Hello all CPE 202 members!
+
+Current Topics
+* [List Queue](queues/list_queue)
+
 From what I have heard, many of you are worried about the common final, so I decided to make a few practice problems that members from other classes will be doing.
 In order to get started with this, all you need to type is:
 ```
@@ -30,6 +34,12 @@ bit.ly/calpolycpe202
     This is the actual file that you will be programming.  
     Each file will contain a shell of code for you to fill in.  
     Each method will be commented to contain what you are supposed to do in that method, as well as any return or error cases
+    
+    * **INFO.md**  
+    This is a file that contains information about the type of topic you are working on.  
+    This should be viewed using GitHub.com or a web browser in order to see the correct formatting.  
+    May contain useful resources regarding the topic, so view these before asking for help.
+
 4. Have fun with these, coding is not meant to be depressing, its meant to empower the user to complete amazing tasks
 
 ## Resources to Use
