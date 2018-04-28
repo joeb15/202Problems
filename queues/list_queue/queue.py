@@ -5,15 +5,20 @@
 A queue is a first-in first-out type of data structure
 For this to work, you must be able to enqueue (add) items to the queue, dequeue (remove) items from the queue
 
+
 """
 
 class List_Queue:
+
+    """
+    Creates a List Queue
+    """
     def __init__(self, size):
         self.size = size
         self.num_items = 0
         self.front = 0
         self.end = 0
-        self.list = []
+        self.list = [None for i in range(self.size)]
 
     """
     returns whether the queue is full or not
