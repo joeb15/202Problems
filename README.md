@@ -35,7 +35,7 @@ bit.ly/calpolycpe202
     Each file will contain a shell of code for you to fill in.  
     Each method will be commented to contain what you are supposed to do in that method, as well as any return or error cases
     
-    * **INFO.md**  
+    * **README.md**  
     This is a file that contains information about the type of topic you are working on.  
     This should be viewed using GitHub.com or a web browser in order to see the correct formatting.  
     May contain useful resources regarding the topic, so view these before asking for help.
