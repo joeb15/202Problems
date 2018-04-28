@@ -2,7 +2,7 @@
 
 The idea behind a circular list queue is that you will have a list of a given size and that will be the size of your queue  
 
-Here's a graphic to demonstrate this:
+Here's a graphic to demonstrate this:  
 ![][enqueue-dequeue]
 
 For example, a queue of size 4 would look like this:
