@@ -35,7 +35,7 @@ A call of *queue.dequeue()* will result in
 |:-:|:-:|:-:|:-:|
 |   | 2 |   |   |
 
-front=1
+front=1  
 end=1  
 returned 5
 
