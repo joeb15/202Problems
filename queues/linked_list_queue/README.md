@@ -37,13 +37,13 @@ This set up is inefficient to implement by pushing items between other ones, so 
 The structure of the queue code:
 * We will only be worrying about the priority of the item being pushed
 * Each item being added will be in the form of a node  
-> Each node will contain  
-    > Data (the priority)  
-    > Previous node(If it has one)  
-    > Next node(If it has one)
-> **Note**
-    > The *first* node is called the head and the *last* is called the tail  
-    > If there are zero items in the queue, the head and tail will be of type None  
-    > If there is one item in the queue, the head and tail will both be the only node
+    Each node will contain  
+        Data (the priority)  
+        Previous node(If it has one)  
+        Next node(If it has one)  
+    **Note**
+        The *first* node is called the head and the *last* is called the tail  
+        If there are zero items in the queue, the head and tail will be of type None  
+        If there is one item in the queue, the head and tail will both be the only node  
 * Due to each node having a previous and a next node, the index of the nodes in the list does NOT matter
 * You are allowed to use *append* and *remove* for the list
