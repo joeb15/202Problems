@@ -2,6 +2,7 @@
 
 Current Topics
 * [List Queue](queues/list_queue)
+* [Linked List Queue](queues/linked_list_queue)
 
 From what I have heard, many of you are worried about the common final, so I decided to make a few practice problems that members from other classes will be doing.
 In order to get started with this, all you need to type is:
