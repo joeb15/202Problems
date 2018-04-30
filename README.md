@@ -1,6 +1,7 @@
 # Hello all CPE 202 members!
 
 Current Topics
+* [List Stack](stacks/list_stack)
 * [List Queue](queues/list_queue)
 * [Linked List Queue](queues/linked_list_queue)
 
