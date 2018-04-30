@@ -4,7 +4,7 @@ Stacks are commonly used within programming, as they are a last in, first out li
 
 This means that the item that was added last will be popped off first
 
-![](stack)
+![](stack-image)
 
 For example, a stack of size 3 would look like this:
 
@@ -32,4 +32,4 @@ However, *popping* from the stack will return 'q' with the new stack looking lik
 |:-:|:-:|:-:|
 | c |   |   |
 
-[stack]: http://img.c4learn.com/2010/02/Stack-Operation-in-C-Programming.jpg
+[stack-image]: https://moometric.com/wp-content/uploads/2015/10/stack1.png
