@@ -4,7 +4,7 @@ Stacks are commonly used within programming, as they are a last in, first out li
 
 This means that the item that was added last will be popped off first
 
-![Stack Design](stack)
+![](stack)
 
 For example, a stack of size 3 would look like this:
 
